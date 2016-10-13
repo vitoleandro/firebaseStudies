@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "attendance-68049",
+    "staging": "attendance-staging"
+  }
+}
